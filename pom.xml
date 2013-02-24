@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>mousetrap</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
     <name>Mousetrap</name>
     <description>WebJar for Mousetrap</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/mousetrap</url>
         <connection>scm:git:https://github.com/webjars/mousetrap.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/mousetrap.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>mousetrap-1.3</tag>
     </scm>
     
     <properties>
