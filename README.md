@@ -1,5 +1,5 @@
-WebJar for WEBJAR_NAME
+WebJar for Mousetrap
 
 More info: http://webjars.org
 
-Upstream: WEBJAR_URL
+Upstream: http://craig.is/killing/mice
